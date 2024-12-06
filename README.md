@@ -15,7 +15,7 @@ The project is a drum machine instrument inspired by the "Guess Who?" game. Its 
 
 As you can see from the image bellow, the instrument has two boards, one for each player (just like the normal game). Each board has 4 rows and 8 columns. 
 
-![Alt text](./img/boards.svg "a title")
+<img src="./img/boards.png" alt="Alt Text" width="300" height="200">
 
 Each row is a sound (kick, snare, hithat, etc) and each column is a step in the 8step drum machine. To make a sound drop the card down where you want it to be played in the sequencer.
 
@@ -33,10 +33,12 @@ I first designed very similar to the game but later i realized i should change t
 
 Bellow you can see the first design of the card and the board of the final design.
 
-![Alt text](./img/card_before.png "First card design")
-![Alt text](./img/board_before.png "First board design")
-![Alt text](./img/card_after.png "Final card design")
-![Alt text](./img/board_after.png "Final board design")
+<img src="./img/card_before.png" alt="Alt Text" width="300" height="200" title="First card design">
+<img src="./img/board_before.png" alt="Alt Text" width="100" height="200" title="First board design">>
+<img src="./img/card_after.png" alt="Alt Text" width="300" height="200" title="Final card design">>
+<img src="./img/board_after.png" alt="Alt Text" width="100" height="200" title="Final board design">>
+
+
 
 ## Eletronics
 
