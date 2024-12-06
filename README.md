@@ -15,7 +15,7 @@ The project is a drum machine instrument inspired by the "Guess Who?" game. Its 
 
 As you can see from the image bellow, the instrument has two boards, one for each player (just like the normal game). Each board has 4 rows and 8 columns. 
 
-<img src="./img/boards.jpeg" alt="Alt Text" width="100" title="Two board instrument">
+<img src="./img/boards.jpeg" alt="Alt Text" width="500" title="Two board instrument">
 
 Each row is a sound (kick, snare, hithat, etc) and each column is a step in the 8step drum machine. To make a sound drop the card down where you want it to be played in the sequencer.
 
