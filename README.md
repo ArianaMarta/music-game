@@ -27,11 +27,11 @@ More importantly, have fun!
 
 ## Design 
 
-My design was inspired by the normal game. I did lot of prototyping to get the best board and card sizes. 
+My design was inspired by the normal game. I did a lot of prototyping to get the best board and card sizes. 
 
 I first designed very similar to the game but later i realized i should change to adapt to my instrument needs.
 
-Bellow you can see the first design of the card and the board of the final design.
+Bellow you can see the first and last design of both the card and the board, respectively.
 
 <p align="middle">
   <img src="./img/card_before.png" alt="Alt Text" width="100" title="First card design">
@@ -44,6 +44,10 @@ Bellow you can see the first design of the card and the board of the final desig
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="./img/board_after.png" alt="Alt Text" width="300" title="Final board design">
 </p>
+
+Finally, I built an acrylic box around it so i could place the eletronics. 
+
+This is how the design looks like:
 
 
 
