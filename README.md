@@ -33,10 +33,21 @@ I first designed very similar to the game but later i realized i should change t
 
 Bellow you can see the first design of the card and the board of the final design.
 
-<img src="./img/card_before.png" alt="Alt Text" width="100" title="First card design">
-<img src="./img/board_before.png" alt="Alt Text" width="300" title="First board design">
-<img src="./img/card_after.png" alt="Alt Text" width="300" title="Final card design">
-<img src="./img/board_after.png" alt="Alt Text" width="100" title="Final board design">
+<div class="row">
+  <div class="column">
+    <img src="./img/card_before.png" alt="Alt Text" width="100" title="First card design">
+  </div>
+  <div class="column">
+    <img src="./img/board_before.png" alt="Alt Text" width="300" title="First board design">
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="./img/card_after.png" alt="Alt Text" width="100" title="Final card design">
+  </div>
+  <div class="column">
+    <img src="./img/board_after.png" alt="Alt Text" width="300" title="Final board design">
+</div>
 
 
 
