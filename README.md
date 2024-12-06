@@ -50,6 +50,15 @@ Bellow you can see the first design of the card and the board of the final desig
 </div>
 
 
+<p align="center">
+  <img src="./img/card_before.png" alt="Alt Text" width="45%" title="First card design">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/board_before.png" alt="Alt Text" width="45%" title="First board design">
+</p>
+
+
+
+
 
 ## Eletronics
 
