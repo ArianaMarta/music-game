@@ -33,6 +33,10 @@ I first designed very similar to the game but later i realized i should change t
 
 Bellow you can see the first design of the card and the board of the final design.
 
+![Alt text](./img/card_before.png "First card design")
+![Alt text](./img/board_before.png "First board design")
+![Alt text](./img/card_after.png "Final card design")
+![Alt text](./img/board_after.png "Final board design")
 
 ## Eletronics
 
