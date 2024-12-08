@@ -55,4 +55,24 @@ This is how the design looks like:
 
 ## PD patches
 
+## Cards meaning
+
+I decided to make a woman only edition where I show woman that have done great things in history that should be more known by their great dos. Unfortunatly, in a man nominated worls some of them have been/ were shut down.
+
+
+* Franklind Rosaline --  was a British chemist that found DNA. The credits were stollen by two man
+* jane goodall --- She is considered the world's foremost expert on chimpanzees. Worked extensively on conservation and animal welfare issues. she was named a United Nations Messenger of Peace. 
+* Malala Yousafzai -- Pakistani female activist and defensor of the human & woman rights. She is the youngest Nobel Prize laureate in history. Recieved the Nobel Peace Prize laureate at the age of 17.
+* Isis King -- is an American model, actress, and fashion designer. She was the first openly trans woman to compete on the show America's Next Top Model
+* Ashley Graham -- North- American model. Graham is a proponent of the body positivity and the Health at Every Size movements. In 2016, she became the first size 16 model to be featured on the cover of Sports Illustrated Swimsuit Issue.
+* Ellen Johnson Sirleaf -- is a Liberian politician. Sirleaf was the first elected female head of state in Africa.
+* Vandana Shiva -- is an Indian scholar, environmental activist, food sovereignty advocate, ecofeminist and anti-globalization author. Shiva plays a major role in the global ecofeminist movement.
+* Wangari Maathai --- Maathai was a Kenyan social, environmental, and political activist. Was the first african woman receiving nobel price of peace
+* Rachel Carson --- environmentalist and criator of the Day of the Earth
+* Emmy Noether -- German. Most important female mathematicians in the history.
+* Michèle Mouton -- first and only woman ever winning a stage of the World Rally Championship. The Greatest Female Driver in History
+* Haifaa Al Mansour -- is a Saudi Arabian film director. She is one of the country's best-known and one of the first female Saudi filmmakers.
+* Valentina Tereshkova —- first woman going to space 
+* Maria da Penha -- Brasilian and defensor of female rights. Help with domestic valice. 
+* Greta Thunberg -- is climate activist. She gained international prominence for her straightforward approach to climate change advocacy, starting with her school strike for climate in 2018.  
 ## ToDo's 
