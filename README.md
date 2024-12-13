@@ -54,7 +54,7 @@ This is how the design looks like:
 ## Eletronics
 
 ## PD patches
-
+ 
 ## Cards meaning
 
 I decided to make a woman only edition where I show woman that have done great things in history that should be more known by their great dos. Unfortunatly, in a man nominated worls some of them have been/ were shut down.
