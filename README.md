@@ -19,7 +19,7 @@ As you can see from the image bellow, the instrument has two boards, one for eac
 
 Each row is a sound (kick, snare, hithat, etc) and each column is a step in the 8step drum machine. To make a sound drop the card down where you want it to be played in the sequencer.
 
-This game has two modes to choose from. In mode 1 you turn the drum machine into a 16step where player 1 plays the first 8 steps and player 2 plays the last 8 steps. Or you can choose mode 0 (don’t forget to turn around the cards) where the drum machine stays 8 step but the players have different sounds (so its a 8step drum machine with 8 different sounds in total).
+This game has two modes to choose from. In mode 0 you turn the drum machine into a 16step where player 1 plays the first 8 steps and player 2 plays the last 8 steps. Or you can choose mode 1 (don’t forget to turn around the cards) where the drum machine stays 8 step but the players have different sounds (so its a 8step drum machine with 8 different sounds in total).
 
 You can either play the game just by dropping the cards down in the specific places you want the sound to be played or you can play the normal "Guess Who?" game with your opponent. When asking questions to try to find your opponents persona you can hear how it sounds like.
 
@@ -45,19 +45,41 @@ Bellow you can see the first and last design of both the card and the board, res
   <img src="./img/board_after.png" alt="Alt Text" width="300" title="Final board design">
 </p>
 
-Finally, I built an acrylic box around it so i could place the eletronics. 
+Finally, I built an acrylic box around it so i could place the electronics. 
 
 This is how the design looks like:
 
+<img src="./img/design.jpeg" alt="Alt Text" width="500" title="Two board instrument">
 
+## Electronics
 
-## Eletronics
+In total I have 8 potentiometers (the max amount Bela board allows considering it only has 8 analog inputs (adc~)), 8 LEDs, 8 buttons, 1 switch button and 1 Start/Stop button. Then I have 3 Trill Sensors and the Bela board. 
+
+I started by testing the electronics individually with Bela.
+
+<p align="middle">
+  <img src="./img/eletr_simple_1.jpg" alt="Alt Text" width="100" title="First card design">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/eletr_simple_2.jpg" alt="Alt Text" width="300" title="First board design">
+</p>
+
+Everything worked as expected as its simple electronics.
 
 ## PD patches
- 
+
+To give some context, in my game I have, per player, 4 rows with different sounds and 4 buttons to select the respective
+row. Then I only have 3 potentiometers to change decay, filter and volume for each sound/row. When we press button 1 and we play around with the potentiometers we will be changing the values for that sound. Then when we press the button 2 we will be changing the values for that sound without influencing the values of the other sounds/rows.
+
+So, to accomplish this idea, I had to simulate the potentiometers as sliders and see if it worked. Following this flow I decided to make a pd patch where I simulate the whole game using Toggles and sliders to replace the buttons, potentiometers and the conductive cards. 
+
+After making the simulation work, the change to the main pd patch with the electronics is very straight forward as I only had to replace the toggles and sliders to the code for the electronics.
+
+I'm very greatfull to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
+
+
 ## Cards meaning
 
-I decided to make a woman only edition where I show woman that have done great things in history that should be more known by their great dos. Unfortunatly, in a man nominated worls some of them have been/ were shut down.
+I decided to make a woman only edition where I show woman that have done great things in history that should be more known by their great dos. Unfortunately, in a man nominated words some of them have been/ were shut down.
 
 
 * Franklind Rosaline --  was a British chemist that found DNA. The credits were stollen by two man
