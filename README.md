@@ -77,21 +77,21 @@ After making the simulation work, the change to the main pd patch with the elect
 I'm very grateful to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
 
 <p align="middle">
-  <img src="./img/pd_1.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_1.png" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/pd_2.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_2.png" alt="Alt Text" width="350" >
 </p>
 
 <p align="middle">
-  <img src="./img/pd_3.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_3.png" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/pd_4.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_4.png" alt="Alt Text" width="350" >
 </p>
 
 <p align="middle">
-  <img src="./img/pd_5.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_5.png" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/pd_6.png" alt="Alt Text" width="400" >
+  <img src="./img/pd_6.png" alt="Alt Text" width="350" >
 </p>
 
 ## Combining Everything
@@ -102,9 +102,9 @@ As if reaching this far wasn’t challenging and time consuming enough, I had CP
 game work with two players. Unfortunatly the sounds are not as clean or sharpe as I would wish but im still very proud to have a working game after soooo much work and challenges. For the Future work i wish to replace Bela board for a computer so i can process everything better and faster.
 
 <p align="middle">
-  <img src="./img/combine_1.jpg" alt="Alt Text" width="400" >
+  <img src="./img/combine_1.jpg" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/combine_2.jpg" alt="Alt Text" width="400" >
+  <img src="./img/combine_2.jpg" alt="Alt Text" width="350" >
 </p>
 
 <p align="middle">
@@ -119,9 +119,9 @@ Lastly, which also took a surprise amount of time, I made the cards for my game.
 The last day before putting the work at the exhibition, I had to edit all the cards in affinity followed by printing, cutting and glueing 264 cards to put them in the card holder.
 
 <p align="middle">
-  <img src="./img/faces_1.png" alt="Alt Text" width="400" >
+  <img src="./img/faces_1.png" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/faces_2.png" alt="Alt Text" width="400" >
+  <img src="./img/faces_2.png" alt="Alt Text" width="350" >
 </p>
 
 ## Cards meaning
