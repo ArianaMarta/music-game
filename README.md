@@ -49,7 +49,7 @@ Finally, I built an acrylic box around it so i could place the electronics.
 
 This is how the design looks like:
 
-<img src="./img/design.jpeg" alt="Alt Text" width="500" title="Two board instrument">
+<img src="./img/design.png" alt="Alt Text" width="500" title="Two board instrument">
 
 ## Electronics
 
@@ -74,7 +74,7 @@ So, to accomplish this idea, I had to simulate the potentiometers as sliders and
 
 After making the simulation work, the change to the main pd patch with the electronics is very straight forward as I only had to replace the toggles and sliders to the code for the electronics.
 
-I'm very greatfull to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
+I'm very grateful to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
 
 
 ## Cards meaning
