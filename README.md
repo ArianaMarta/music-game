@@ -76,6 +76,8 @@ After making the simulation work, the change to the main pd patch with the elect
 
 I'm very grateful to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
 
+Bellow are images of some of the pd subpatches.
+
 <p align="middle">
   <img src="./img/pd_1.png" alt="Alt Text" width="350" >
 &nbsp; &nbsp; &nbsp; &nbsp;
