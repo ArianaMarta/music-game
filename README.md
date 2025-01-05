@@ -83,10 +83,28 @@ Next was time to put all the physical things together and it took me a surprisin
 As if reaching this far wasn’t challenging and time consuming enough, I had CPU problems due to very complex sounds. That was the last challenge where I spent the whole day making the sounds simpler so I would manage to make my
 game work with two players. Unfortunatly the sounds are not as clean or sharpe as I would wish but im still very proud to have a working game after soooo much work and challenges. For the Future work i wish to replace Bela board for a computer so i can process everything better and faster.
 
+<p align="middle">
+  <img src="./img/combine_1.jpg" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/combine_2.jpg" alt="Alt Text" width="300" >
+</p>
+
+<p align="middle">
+  <img src="./img/combine_3.jpg" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/combine_4.jpg" alt="Alt Text" width="300" >
+</p>
+
 ## Making the Cards
 
 Lastly, which also took a surprise amount of time, I made the cards for my game. I decided to make a female only version this time where I selected women that have done great things but are not too known for their work and they should.
 The last day before putting the work at the exhibition, I had to edit all the cards in affinity followed by printing, cutting and glueing 264 cards to put them in the card holder.
+
+<p align="middle">
+  <img src="./img/faces_1.png" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/faces_2.png" alt="Alt Text" width="300" >
+</p>
 
 ## Cards meaning
 
@@ -122,6 +140,12 @@ I would like to continue with this project and improve some things. I’ve head 
 
 Overall, I’m very grateful I took this course as ive learn so much and discovered
 another word of new media art possibilities.
+
+<p align="middle">
+  <img src="./img/fun_music.png" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/game_1.png" alt="Alt Text" width="300" >
+</p>
 
 ## ToDo's / Future work
 
