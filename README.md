@@ -58,7 +58,7 @@ In total I have 8 potentiometers (the max amount Bela board allows considering i
 I started by testing the electronics individually with Bela.
 
 <p align="middle">
-  <img src="./img/eletr_simple_1.jpg" alt="Alt Text" width="100" title="First card design">
+  <img src="./img/eletr_simple_1.jpg" alt="Alt Text" width="300" title="First card design">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="./img/eletr_simple_2.jpg" alt="Alt Text" width="300" title="First board design">
 </p>
