@@ -76,6 +76,24 @@ After making the simulation work, the change to the main pd patch with the elect
 
 I'm very grateful to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
 
+<p align="middle">
+  <img src="./img/pd_1.png" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/pd_2.png" alt="Alt Text" width="400" >
+</p>
+
+<p align="middle">
+  <img src="./img/pd_3.png" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/pd_4.png" alt="Alt Text" width="400" >
+</p>
+
+<p align="middle">
+  <img src="./img/pd_5.png" alt="Alt Text" width="400" >
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="./img/pd_6.png" alt="Alt Text" width="400" >
+</p>
+
 ## Combining Everything
 
 Next was time to put all the physical things together and it took me a surprisingly long amount of time to solder and mount all the boxes together.
@@ -86,13 +104,13 @@ game work with two players. Unfortunatly the sounds are not as clean or sharpe a
 <p align="middle">
   <img src="./img/combine_1.jpg" alt="Alt Text" width="400" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/combine_2.jpg" alt="Alt Text" width="300" >
+  <img src="./img/combine_2.jpg" alt="Alt Text" width="400" >
 </p>
 
 <p align="middle">
-  <img src="./img/combine_3.jpg" alt="Alt Text" width="400" >
+  <img src="./img/combine_3.jpg" alt="Alt Text" width="300" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/combine_4.jpg" alt="Alt Text" width="300" >
+  <img src="./img/combine_4.jpg" alt="Alt Text" width="400" >
 </p>
 
 ## Making the Cards
@@ -103,7 +121,7 @@ The last day before putting the work at the exhibition, I had to edit all the ca
 <p align="middle">
   <img src="./img/faces_1.png" alt="Alt Text" width="400" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/faces_2.png" alt="Alt Text" width="300" >
+  <img src="./img/faces_2.png" alt="Alt Text" width="400" >
 </p>
 
 ## Cards meaning
@@ -142,9 +160,9 @@ Overall, I’m very grateful I took this course as ive learn so much and discove
 another word of new media art possibilities.
 
 <p align="middle">
-  <img src="./img/fun_music.png" alt="Alt Text" width="400" >
+  <img src="./img/fun_music.png" alt="Alt Text" width="300" >
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./img/game_1.png" alt="Alt Text" width="300" >
+  <img src="./img/game_1.png" alt="Alt Text" width="400" >
 </p>
 
 ## ToDo's / Future work
