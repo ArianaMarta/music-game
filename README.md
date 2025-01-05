@@ -49,7 +49,7 @@ Finally, I built an acrylic box around it so i could place the electronics.
 
 This is how the design looks like:
 
-<img src="./img/design.png" alt="Alt Text" width="500" title="Two board instrument">
+<img src="./img/design.png" alt="Alt Text" width="400" title="Two board instrument">
 
 ## Electronics
 
@@ -58,7 +58,7 @@ In total I have 8 potentiometers (the max amount Bela board allows considering i
 I started by testing the electronics individually with Bela.
 
 <p align="middle">
-  <img src="./img/eletr_simple_1.jpg" alt="Alt Text" width="300" title="First card design">
+  <img src="./img/eletr_simple_1.jpg" alt="Alt Text" width="400" title="First card design">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="./img/eletr_simple_2.jpg" alt="Alt Text" width="300" title="First board design">
 </p>
