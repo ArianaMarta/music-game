@@ -76,6 +76,17 @@ After making the simulation work, the change to the main pd patch with the elect
 
 I'm very grateful to have made the simulation path as i believed it saved me some time and helped trouble shooting/debugging.
 
+## Combining Everything
+
+Next was time to put all the physical things together and it took me a surprisingly long amount of time to solder and mount all the boxes together.
+
+As if reaching this far wasn’t challenging and time consuming enough, I had CPU problems due to very complex sounds. That was the last challenge where I spent the whole day making the sounds simpler so I would manage to make my
+game work with two players. Unfortunatly the sounds are not as clean or sharpe as I would wish but im still very proud to have a working game after soooo much work and challenges. For the Future work i wish to replace Bela board for a computer so i can process everything better and faster.
+
+## Making the Cards
+
+Lastly, which also took a surprise amount of time, I made the cards for my game. I decided to make a female only version this time where I selected women that have done great things but are not too known for their work and they should.
+The last day before putting the work at the exhibition, I had to edit all the cards in affinity followed by printing, cutting and glueing 264 cards to put them in the card holder.
 
 ## Cards meaning
 
@@ -97,4 +108,29 @@ I decided to make a woman only edition where I show woman that have done great t
 * Valentina Tereshkova —- first woman going to space 
 * Maria da Penha -- Brasilian and defensor of female rights. Help with domestic valice. 
 * Greta Thunberg -- is climate activist. She gained international prominence for her straightforward approach to climate change advocacy, starting with her school strike for climate in 2018.  
-## ToDo's 
+
+
+ToDo (miss writting 16 left)
+* Frida Kahlo - pintora mexican, a artista é reconhecida também como um emblema feminista. Isso porque mesmo não se identificando como tal, teve uma postura marcada contra o sistema patriarcal e impôs suas ideias de forma criativa e decidida.
+
+## Feedback
+
+I’ve receive amazing feedback from the people attending the exhibition and that’s the best price ever after so much work put into it. People loved it and were having so much fun playing with it. I was so happy to see my friends having so much fun
+playing together with my instrument and I must say that I’ve recorded amazing bangers from those people that walked in not even knowing what a drum machine is. 
+
+I would like to continue with this project and improve some things. I’ve head some feedback and ideas from people that I could do on the next iteration. My goal is also to apply for the Sonar festival in barcelona in 2025 with this instrument.
+
+Overall, I’m very grateful I took this course as ive learn so much and discovered
+another word of new media art possibilities.
+
+## ToDo's / Future work
+
+Based on people's feedback I wish to change some things on the work:
+
+* Make the tempo faster
+* Improve the sounds and make the sound of the player 1 more interesting, like the acid on player 2
+* Add the vinyl cut color circles to signalize which row is being edit with the buttons.
+* At the moment i only have the images of the instruments but i would like to had the faces so the players can play the normal "Guess Who?" game and hear how it sounds like. I think this way of playing adds a new dimension to the instrument. Every game will compose a new unique song. 
+* Make another use of mode 0. Not just because its not too interesting to play but also because flipping all the 32 cards to change the mode is not the most efficient, fast or interesting (and changing the design of the cards is not something i want to do). Two ways i could do this:
+  1. Do a blind mode 0 to enhance peoples sensibility and embodiment to the sounds and creativity on their reactions. Having 8 step sequencer with 8 different sounds from the mode 1.
+  2. Make the mode 0 be the one where people play the normal "Guess Who?" game maintain it has a 16 step sequencer where the 1st player composes the first 8 steps influenced by their questions and the second player composes the following 8 steps.
